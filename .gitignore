@@ -130,3 +130,6 @@ dmypy.json
 
 # PyCharm
 .idea/
+
+# CatBoost
+catboost_info/
